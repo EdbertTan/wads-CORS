@@ -1,1 +1,2 @@
-![api design](https://github.com/user-attachments/assets/89aa3b17-6b54-4d2e-812e-5e162bed1e36)
+API architecture:
+![api design](https://github.com/user-attachments/assets/060d0c2a-d497-489d-a542-f45ad14497e3)
